@@ -17,7 +17,7 @@ A Python script for running a local HTTP server with the ability to block IP add
 3. Run the script:
 
 ```bash
-python server.py
+python main.py
 ```
 
 4. Choose a folder with your HTML/files
@@ -74,7 +74,7 @@ Python-скрипт для запуска локального HTTP-сервер
 3. Запустите скрипт:
 
 ```bash
-python server.py
+python main.py
 ```
 
 4. Выберите директорию с HTML/файлами
